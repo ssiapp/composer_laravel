@@ -2,6 +2,7 @@
     "name": "ssiapp/composer_laravel",
     "description": "Laravel Composer Require",
     "keywords": ["laravel", "composer", "require"],
+    "license": "MIT",
     "type": "library",
     "require": {
         "php": ">=7.0.0",
