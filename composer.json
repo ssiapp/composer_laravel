@@ -46,7 +46,6 @@
         "infyomlabs/adminlte-templates": "5.5.x-dev",
         "infyomlabs/laravel-generator": "5.5.x-dev"
     },
-    "license": "GPL",
     "authors": [
         {
             "name": "ray",
