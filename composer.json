@@ -37,7 +37,8 @@
         "symfony/thanks": "^1.0",
 
         "barryvdh/laravel-debugbar": "~3.2",
-        "barryvdh/laravel-ide-helper": "~2.6"
+        "barryvdh/laravel-ide-helper": "~2.6",
+        "laravel/dusk": "~1.0"
     },
     "suggest": {
         "chumper/zipper": "1.0.x",
@@ -46,8 +47,7 @@
         "maatwebsite/excel": "~3.0",
         "overtrue/laravel-wechat": "~4.0",
         "infyomlabs/adminlte-templates": "5.5.x-dev",
-        "infyomlabs/laravel-generator": "5.5.x-dev",
-        "laravel/dusk": "~1.0"
+        "infyomlabs/laravel-generator": "5.5.x-dev"
     },
     "authors": [
         {
