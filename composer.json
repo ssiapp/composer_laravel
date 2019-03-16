@@ -38,7 +38,7 @@
 
         "barryvdh/laravel-debugbar": "~3.2",
         "barryvdh/laravel-ide-helper": "~2.6",
-        "laravel/dusk": "~1.0"
+        "laravel/dusk": "~2.0"
     },
     "suggest": {
         "chumper/zipper": "1.0.x",
