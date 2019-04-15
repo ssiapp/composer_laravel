@@ -27,7 +27,8 @@
         "doctrine/dbal": "^2.9",
         "symfony/css-selector": "~3.4",
         "symfony/dom-crawler": "~3.4",
-        "zircote/swagger-php":"~2.0"
+        "zircote/swagger-php":"~2.0",
+        "spatie/laravel-backup": "^5.0.0"
 
     },
     "require-dev": {
